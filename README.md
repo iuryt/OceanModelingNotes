@@ -7,7 +7,7 @@
 
 One of the ways to estimate the horizontal viscosity 
 
-<img src="https://render.githubusercontent.com/render/math?math=Re_{\Delta x} = \dfrac{U_c \Delta x}{\nu}##gh-light-mode-only">
+<img src="https://render.githubusercontent.com/render/math?math=Re_{\Delta x} = \dfrac{U_c \Delta x}{\nu}#gh-light-mode-only">
 <img src="https://render.githubusercontent.com/render/math?math=Re_{\Delta x} = \dfrac{U_c \Delta x}{\nu}#gh-dark-mode-only">
 
 **Example**
